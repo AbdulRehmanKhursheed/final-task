@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"swaggerAPI_jwtPrivateKey",
+    "connectionstring":"mongoconnectionstring"
+}
